@@ -26,7 +26,5 @@ A saída deverá ser o lanche montado com as palavras que definem os ingrediente
 | Entrada                | Saída                                 |
 | ---------------------- | ------------------------------------- |
 | Pao;Presunto;Carne;Pao | Pao<br />Presunto<br />Carne<br />Pao |
-
-| Pao;Picles;Tomate;Pao | Pao<br />Picles<br />Tomate<br />Pao |
-
-| Pao;Tomate;Carne;Pao | Pao<br />Tomate<br />Carne<br />Pao |
+| Pao;Picles;Tomate;Pao  | Pao<br />Picles<br />Tomate<br />Pao  |
+| Pao;Tomate;Carne;Pao   | Pao<br />Tomate<br />Carne<br />Pao   |
