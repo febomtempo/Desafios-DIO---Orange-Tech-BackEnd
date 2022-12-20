@@ -18,9 +18,8 @@ A saída deverá ser quantas multas o motorista já tem e se ele irá receber po
 
 ### Exemplo
 
-| Entrada | Saída |
-| ------- | ----- |
-
-| 80 1 | "1 multas. Nao levou pontos na carteira" |
-| 85 1| "2 multas. Nao levou pontos na carteira"|
-| 95 2 | "3 multas. Levou pontos na carteira" |
+| Entrada | Saída                                    |
+| ------- | ---------------------------------------- |
+| 80 1    | "1 multas. Nao levou pontos na carteira" |
+| 85 1    | "2 multas. Nao levou pontos na carteira" |
+| 95 2    | "3 multas. Levou pontos na carteira"     |
