@@ -23,22 +23,10 @@ A saída deverá ser o lanche montado com as palavras que definem os ingrediente
 
 ### Exemplo
 
-| Entrada                | Saída |
-| ---------------------- | ----- |
-| Pao;Presunto;Carne;Pao | Pao   |
+| Entrada                | Saída                                 |
+| ---------------------- | ------------------------------------- |
+| Pao;Presunto;Carne;Pao | Pao<br />Presunto<br />Carne<br />Pao |
 
-          Presunto
-          Carne
-          Pao  |
+| Pao;Picles;Tomate;Pao | Pao<br />Picles<br />Tomate<br />Pao |
 
-| Pao;Picles;Tomate;Pao | Pao
-
-          Picles
-          Tomate
-          Pao |
-
-| Pao;Tomate;Carne;Pao | Pao
-
-          Tomate
-          Carne
-          Pao |
+| Pao;Tomate;Carne;Pao | Pao<br />Tomate<br />Carne<br />Pao |
