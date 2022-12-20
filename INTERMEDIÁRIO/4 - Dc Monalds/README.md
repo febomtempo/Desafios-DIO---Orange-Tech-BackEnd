@@ -31,13 +31,13 @@ A saída deverá ser o lanche montado com as palavras que definem os ingrediente
           Carne
           Pao  |
 
-| Pao;Picles;Tomate;Pao | Pao |
+| Pao;Picles;Tomate;Pao | Pao
 
           Picles
           Tomate
           Pao |
 
-| Pao;Tomate;Carne;Pao | Pao |
+| Pao;Tomate;Carne;Pao | Pao
 
           Tomate
           Carne
